@@ -1,25 +1,18 @@
 ### print("Hello World!") 🐍
 <a href="https://github.com/guilhermea23" target="_blank">![GitHub followers](https://img.shields.io/github/followers/guilhermea23?style=social)</a>
-<a href="https://twitter.com.br/guilerme_23" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/guilerme_23?label=Follow&style=social)</a>
 
-<hr />
-👦 My name is Guilherme Araújo, my nicknames are: Guigous, Santista or just Gui<br />
 
-🐾 I'm a Computer Science Undergraduate on [UnB](https://unb.br)<br />
-✨ I like programming in Python, but I like also web development with HTML, CSS, JS and others languages<br />
+🐾 Computer Science Undergraduate on [UnB](https://unb.br)<br />
+✨ I like programming in Python but I also enjoy web development with HTML, CSS, Javascript<br />
 🤔 Whenever possible I am challenging myself in new tecnologies like ReactJS, Ruby on Rails, etc.<br />
-🔛 <strong>Open to new experiences</strong><br />
-🐰 That's all, folks!
+🤝 <strong>Open to new experiences</strong><br />
+👋 That's all, folks!
 
-<br />
-<br />
 <br />
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guilhermea23&show_icons=true&theme=dark)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&show_icons=true&theme=dark)](https://github.com/guilhermea23/github-readme-stats)
+![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guilhermea23&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=gruvbox&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 <a target="_blank" href="https://instagram.com/guilhermea.23"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
