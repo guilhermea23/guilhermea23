@@ -1,18 +1,33 @@
-# ```print("Hello World!")``` 🐍
+# Hello World! :trollface:
+>"a day after another day"
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/guilhermea23?label=Follow&style=social">
+![GitHub followers](https://img.shields.io/github/followers/guilhermea23?color=9C67C6&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/guilerme_23?color=9C67C6&style=for-the-badge)
+<br />
 👋 My name's Guilherme Araújo, aka Guigous.<br />
 
-🧑‍💻 Computer Science Undergraduate on [UnB](https://unb.br)<br />
+:student: Computer Science Undergraduate on [UnB](https://unb.br)<br />
 
-<h2>My statistics</h2>
+:toolbox: Java, Python, JavaScript
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/guilhermea23?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=dark&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Statistics on GitHub
 
-<hr />
-<h3>Contact me</h3>
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/guilhermea23?cardType=github&theme=gotham)](https://git.io/awesome-stats-card)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a target= "_blank" href="mailto:garaujodeoliveira1@gmail.com"><img src="https://img.icons8.com/ios-filled/48/000000/mail.png"/></a>
-<a target="_blank" href="https://instagram.com/guilhermea.23"><img src="https://img.icons8.com/ios-filled/48/000000/instagram-new--v1.png"/></a>
-<a target= "_blank" href="https://www.linkedin.com/in/guilherme-a-8734a2182/"><img src="https://img.icons8.com/material/48/000000/linkedin--v1.png"/></a>
+---
+![](https://media.tenor.com/k9yAts9ymaIAAAAM/loading-load.gif)
+## :pray::pleading_face:	hire me please
+
+<a target="_blank" href="mailto:garaujodeoliveira1@gmail.com">
+:email:
+<label>Email</label>
+</a><br/>
+<a target="_blank" href="https://instagram.com/guilhermea.23">
+:framed_picture:
+<label>Instagram</label>
+</a><br/>
+<a target="_blank" href="https://www.linkedin.com/in/guilherme-a-8734a2182/">
+:briefcase:
+<label>LinkedIn</label>
+</a>
