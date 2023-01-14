@@ -12,8 +12,8 @@
 
 ## Statistics on GitHub
 
-[![](https://awesome-github-stats.azurewebsites.net/user-stats/guilhermea23?cardType=github&theme=gotham)](https://git.io/awesome-stats-card)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/guilhermea23?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ![](https://media.tenor.com/k9yAts9ymaIAAAAM/loading-load.gif)
