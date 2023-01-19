@@ -14,7 +14,7 @@
 
 ## :chart_with_upwards_trend: Statistics on GitHub
 
-<p><a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/guilhermea23?theme=react&show_icons=true" style="height:200px"></a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=react&layout=compact" style="height:200px"></a></p>
+<p><a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/guilhermea23?theme=react&show_icons=true" style="height:200px"></a></p>
 
 :pray::pleading_face:	hire me please
 
