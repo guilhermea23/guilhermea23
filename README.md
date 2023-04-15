@@ -1,5 +1,5 @@
 # Hello World! :trollface:
-> _"Nothing like a day after another day"_ - Racionais MC's
+> _"Nada como um dia após o outro dia."_ - Racionais MC's
 
 
 <a href="https://www.linkedin.com/in/guilherme-a-8734a2182/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
