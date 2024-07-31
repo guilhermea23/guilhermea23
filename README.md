@@ -14,4 +14,4 @@
 
 :cat: Student on [UnB](https://unb.br)
 
-:egg: [Grupo ICTS](https://icts.org.br/home)'s N1 intern
+:man_office_worker: Open to work
