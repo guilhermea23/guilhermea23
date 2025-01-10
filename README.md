@@ -1,19 +1,24 @@
-# Hello World! :trollface:
-> _"Nada como um dia após o outro dia."_ - Racionais MC's
+<div align="center">
+  
+<h1>Hello World!</h1>
+<p>Please call me gu¡gous</p>
 
-<a href="mailto:garaujodeoliveira1@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://instagram.com/guilherme.araujo.23" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://t.me/guilhermea23" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://discord.com/channels/@me/684902269296181248">![Discord](https://img.shields.io/discord/781351444120338472?style=for-the-badge)</a>
-<a href="https://twitter.com/guilerme_23">![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/guilerme_23?style=for-the-badge)</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=gotham&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermea23&theme=dark&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermea23&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermea23&show_icons=true&theme=gotham&layout=compact)
 
 :man_student: IT Technician formed at [CEP-ETB](http://etb.com.br/)
 
 :man_student: Undergraduating on Computer Science at [UnB](https://www.unb.br/)
 
----
+<h1>Contact me in</h1>
+<a href="mailto:garaujodeoliveira1@gmail.com" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>
+<a href="https://instagram.com/guilhermea23" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /></a> 
+<a href="https://t.me/guilhermea23" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a> 
+<a href="https://discord.com/channels/@me/684902269296181248" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" /></a> 
+<a href="https://x.com/guilerme_23" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/x" /></a> 
+<a href="https://signal.me/#eu/vvbbhF9Ql9VQKE4UWEc8IKKAN0RT4MYPSmkoHnkzLb1Nm3eZVp1DtJJO_LIdslP5" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/signal" /></a>
 
-## :man_office_worker: :eyes: Open to work!
+</div>
+
+
